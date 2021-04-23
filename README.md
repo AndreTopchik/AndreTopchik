@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndreTopchik
 - 👀 I’m interested in creating your own project, code management, and much more...
 - 🌱 I’m currently learning at school but I want to enroll as a programmer
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on with the company of my friends razrabov
 - 📫 How to reach me no way
 
 <!---
